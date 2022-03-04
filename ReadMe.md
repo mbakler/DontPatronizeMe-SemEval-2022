@@ -1,0 +1,3 @@
+### Instructions
+
+This repository implements a language model for the **SemEval-2022 Task4 - Patronizing and Condescending Language Detection** subtask 1. All of the files needed to train and evaluate the model on the official dev set are in the repository. The file to be run for the training and evaluating the model is "model training and evaluation.ipynb". Running the file initiates a model with tuned hyperparameters, trains the model on a augmented dataset and evaluates the model on the official dev set. The current output of the cells correspond to the last run of the model.
